@@ -420,8 +420,8 @@ print(video_list_tier_2)
 video_clips = [] # list of subclips
 video_clips_second_tier = [] # list of tier 2 subclips
 
-audio_clip_path_4 = os.path.join(BASE_DIR, "sasageyo_4.mp3") # 12 second amv, best scene from each video file
-audio_clip_path_8 = os.path.join(BASE_DIR, "sasageyo_8.mp3") # 24 second amv, 1st and 2nd best scene from each video file
+audio_clip_path_4 = os.path.join(BASE_DIR, "test_audio1.mp3") # 12 second amv, best scene from each video file
+audio_clip_path_8 = os.path.join(BASE_DIR, "test_audio_2.mp3") # 24 second amv, 1st and 2nd best scene from each video file
 
 audio_clip_4 = AudioFileClip(audio_clip_path_4) 
 audio_clip_8 = AudioFileClip(audio_clip_path_8)
