@@ -22,20 +22,3 @@ run >main.py<
 
 Step 5 :   
 dcp part runs, then plot shows up, click x on the plot and rest of code will run creating videos stored into 'run1_output' folder  
-
-<br>
-<br>
-<br>
-note 1 : if you do use anime opening videos, there may be very slight spoilers, proceed with caution  
-<br>
-<br>
-note 2 : I do not own any audio/video/technology used in this project
-<br>
-<br>
-note 3 : may take 30 seconds to clone
-<br>
-<br>
-note 4 : currently configured on the demo compute group
-<br>
-<br>
-note 5 : works on Mac Os Monterey
